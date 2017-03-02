@@ -1,3 +1,4 @@
+![Pushsafer](https://www.pushsafer.com/de/assets/logos/logo.png)
 puppet-pushsafer
 ==========
 
@@ -5,6 +6,12 @@ Description
 -----------
 
 A Puppet report handler for sending notifications of failed runs as a push notification by Pushsafer.com
+
+[Pushsafer.com](https://www.pushsafer.com) make it easy and safe to send &amp; receive push-notifications to your
+- Android devices
+- iOS devices (iPhone, iPad, iPod Touch, Watch)
+- Windows 10 Phone & Desktop
+- Browser (Chrome & Firefox)
 
 Requirements
 ------------
