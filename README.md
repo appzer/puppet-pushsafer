@@ -1,17 +1,10 @@
-![Pushsafer](https://www.pushsafer.com/de/assets/logos/logo.png)
-puppet-pushsafer
+pushsafer-puppet
 ==========
 
 Description
 -----------
 
 A Puppet report handler for sending notifications of failed runs as a push notification by Pushsafer.com
-
-[Pushsafer.com](https://www.pushsafer.com) make it easy and safe to send &amp; receive push-notifications to your
-- Android devices
-- iOS devices (iPhone, iPad, iPod Touch, Watch)
-- Windows 10 Phone & Desktop
-- Browser (Chrome & Firefox)
 
 Requirements
 ------------
@@ -21,7 +14,7 @@ Requirements
 Installation & Usage
 --------------------
 
-1.  Install puppet-pushsafer as a module in your Puppet master's module
+1.  Install pushsafer-puppet as a module in your Puppet master's module
     path.
 
 2.  Update the `privatekey` variable in the `pushsafer.yaml` file with your private or alias key from Pushsafer.com.
