@@ -1,0 +1,15 @@
+  {
+      "name": "puppet-pushsafer",
+      "version": "0.0.1",
+      "author": "Pushsafer.com Kevin Siml",
+      "license": "Apache-2.0",
+      "summary": "A Puppet report handler for sending notifications of failed runs as a push notification by Pushsafer.com",
+      "source": "https://github.com/appzer/puppet-pushsafer",
+      "project_page": "https://www.pushsafer.com/en/puppet",
+      "issues_url": "https://github.com/appzer/puppet-pushsafer/issues",
+      "tags": ["push", "pushnotification", "push notification", "android", "iphone", "ipad", "windows 10", "win10", "pushsafer"],
+      "dependencies": [
+        { "name": "puppetlabs/stdlib", "version_requirement": ">= 2.6.5" }
+      ],
+      "data_provider": "none"
+    }
