@@ -1,6 +1,6 @@
   {
       "name": "pushsafer-puppet",
-      "version": "0.0.1",
+      "version": "0.0.2",
       "author": "Pushsafer.com Kevin Siml",
       "license": "Apache-2.0",
       "summary": "A Puppet report handler for sending notifications of failed runs as a push notification by Pushsafer.com",
